@@ -56,7 +56,7 @@ The dataset includes records on:
 
 The final insights and business recommendations have been compiled into a presentation.
 
-📎 [Click here to view/download the presentation](./Ad-Hoc%20Analysis%20ppt.pptx)
+📎 [Click here to view/download the presentation](./Consumer_Goods_Analysis.pptx)
 
 This presentation includes:
 - Executive-level insights from all 10 ad hoc requests
