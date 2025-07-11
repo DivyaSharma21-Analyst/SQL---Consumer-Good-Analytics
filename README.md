@@ -27,7 +27,6 @@ As a candidate for a junior data analyst role, the objective of this project was
 
 - **SQL (MySQL)** – Querying and analyzing structured data
 - **Microsoft PowerPoint** – Presenting insights visually
-- *(Optional)* Power BI – For potential data visualization (not included here)
 
 ---
 
@@ -52,3 +51,16 @@ The dataset includes records on:
 - **Key Sales Channel**: *Retailers* accounted for **73.22%** of total gross sales
 
 ---
+
+## 📽️ Solution Presentation
+
+The final insights and business recommendations have been compiled into a presentation.
+
+📎 [Click here to view/download the presentation](./Ad-Hoc%20Analysis%20ppt.pptx)
+
+This presentation includes:
+- Executive-level insights from all 10 ad hoc requests
+- Visual summaries of data findings
+- Key recommendations based on query results
+
+This project is completed as part of the **[Codebasics Data Analytics Bootcamp](https://www.codebasics.io/)** SQL Challenge.
